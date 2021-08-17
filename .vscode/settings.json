@@ -1,4 +1,6 @@
 {
     "restructuredtext.confPath": "",
-    "python.pythonPath": ".venv/bin/python3"
+    "python.pythonPath": ".venv/bin/python3",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true
 }
